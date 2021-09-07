@@ -8,7 +8,7 @@ namespace QuiltPatterns
 {
     public class Program
     {
-        // This whole section doesn't work.  Couldn't figure out how to call any methods I "think" I've created.
+        /* This whole section doesn't work.  Couldn't figure out how to call any methods I "think" I've created.  Did not have time to add exception handling.*/
 
         public void RequestShape()
         {
@@ -33,6 +33,20 @@ namespace QuiltPatterns
             {
                 // Trying to call the CreateSquare() Method from the Square class.... unsuccessfully
                 Square.CreateSquare(); 
+            }
+            else if(selection.ToLower() == "r")
+            {
+                // Trying to call the CreateRectangle() method but I am clearly not doing it correctly
+                Rectangle.CreateRectangle();
+            }
+            else if(selection.ToLower() == "t")
+            {
+                // Trying to call the CreateTriangle() method from the Triangle class
+                Triangle.CreateTriangle();
+            }
+            else
+            {
+                Console.WriteLine("You did not select a valid option.");
             }
         }
     }
