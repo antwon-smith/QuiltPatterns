@@ -1,0 +1,7 @@
+C:\Users\lesm\source\repos\QuiltPatterns\obj\Debug\QuiltPatterns.csproj.AssemblyReference.cache
+C:\Users\lesm\source\repos\QuiltPatterns\obj\Debug\QuiltPatterns.csproj.CoreCompileInputs.cache
+C:\Users\lesm\source\repos\QuiltPatterns\bin\Debug\QuiltPatterns.exe.config
+C:\Users\lesm\source\repos\QuiltPatterns\bin\Debug\QuiltPatterns.exe
+C:\Users\lesm\source\repos\QuiltPatterns\bin\Debug\QuiltPatterns.pdb
+C:\Users\lesm\source\repos\QuiltPatterns\obj\Debug\QuiltPatterns.exe
+C:\Users\lesm\source\repos\QuiltPatterns\obj\Debug\QuiltPatterns.pdb
